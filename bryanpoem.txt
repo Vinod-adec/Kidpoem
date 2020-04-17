@@ -1,5 +1,5 @@
 BRyanuCOlours
-parrot
-green
-sure
+parrot green
+Blue
+red
 yellow
