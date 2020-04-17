@@ -2,9 +2,10 @@ BRyanuCOlours with unicorn
 parrot green
 Blue
 red
-yellow
-Unicorn yellow
-unicorn green 
 Minions Orange 
 Minions yellow
 Added minions
+yellow
+Unicorn yellow
+unicorn green 
+
