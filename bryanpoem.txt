@@ -8,4 +8,7 @@ Added minions
 yellow
 Unicorn yellow
 unicorn green 
+Indigo
+skyblue
+pink
 
